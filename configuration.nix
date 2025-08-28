@@ -135,6 +135,7 @@
     pkgs.yabridge
     pkgs.yabridgectl
     pkgs.winePackages.stagingFull
+    pkgs.alsa-scarlett-gui
 
     
     #pkgs.openjdk17-bootstrap
